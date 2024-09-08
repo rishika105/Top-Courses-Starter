@@ -12,7 +12,7 @@ A React app that displays a list of courses and allows filtering by category.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rishika105/top-courses-react.git
    ```
 2. Install dependencies:
    ```bash
